@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# asprova visualizer
+testcase_generator
+provisional
